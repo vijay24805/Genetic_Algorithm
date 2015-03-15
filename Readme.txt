@@ -1,3 +1,4 @@
+					Genetic Algorithm for Sudoku
 For our implementation of GA for sudoku, we decided to treat a board as a chromosome
 string. The perfect genetics would be that of a board that has no duplicates in its rows, columns, and
 sub-squares. The initial population consisted of boards that originally had perfect columns. These
@@ -23,7 +24,4 @@ moderate results we were intrigued. Perhaps if we decided on a better selection 
 have seen results closer to the ideal board.
 
 By
-Vijaya Kumar
-Rossey Charleston
-I1800
-Nov 26, 2013
+Vijaya Kumar V and Rossey Charlseton
